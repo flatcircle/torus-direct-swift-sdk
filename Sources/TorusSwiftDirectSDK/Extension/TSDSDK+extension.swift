@@ -7,7 +7,7 @@
 
 import Foundation
 import UIKit
-import TorusUtils
+import FlatCircleTorusUtils
 import PromiseKit
 import SafariServices
 

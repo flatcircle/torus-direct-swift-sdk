@@ -7,9 +7,9 @@
 
 import Foundation
 import UIKit
-import TorusUtils
+import FlatCircleTorusUtils
 import PromiseKit
-import FetchNodeDetails
+import FlatCircleFetchNodeDetails
 import BestLogger
 
 @available(iOS 11.0, *)
